@@ -1,1 +1,4 @@
-print('heloo git')
+print('heloo world')
+
+for i in range(10):
+    print(i)
